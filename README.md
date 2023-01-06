@@ -1,3 +1,3 @@
 # kalanisweb
 
-[Demos(https://akbarmkalani.github.io/kalanisweb/)]
+[Demos Projcet](https://akbarmkalani.github.io/kalanisweb/)
